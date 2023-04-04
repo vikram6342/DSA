@@ -4,7 +4,7 @@ Binary Search algorithm on Linked List
 This algorithm is used to search for an element in a linked list 
 using the binary Search algorithm
 
-Eventhoudh the algorithm uses binary search whose complexity is O(logn)
+Eventhough the algorithm uses binary search whose complexity is O(logn)
 this algorithm turns out to be O(n) since the middle element has to be
 found by traversing half the linked list
 
