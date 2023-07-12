@@ -73,7 +73,6 @@ a.insEnd(1)
 a.insEnd(22)
 a.insEnd(33)
 a.insEnd(44)
-a.insEnd(53)
 a.display()
 
 s = Search(a.head, a.end)
